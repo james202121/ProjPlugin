@@ -1,0 +1,25 @@
+{
+	"repoName": "ProjPlugin",
+	"name": "Projector Control",
+	"author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+	"description": "Basic projector control for FPP",
+	"homeURL": "https://github.com/james202121/ProjPlugin",
+	"srcURL": "https://github.com/james202121/ProjPlugin.git",
+	"bugURL": "https://github.com/james202121/ProjPlugin/issues",
+	"allowUpdates": 1,
+	"versions": [
+		{
+			"minFPPVersion": "2.0",
+			"maxFPPVersion": "7.99",
+			"branch": "master",
+			"sha": ""
+		},
+		{
+            "minFPPVersion": "8.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": "",
+            "allowUpdates": 1
+        }
+	]
+}
